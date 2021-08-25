@@ -2,9 +2,10 @@
 
 A Rust lib to encode and decode the SSE (Server-Sent Events) protocol message.
 
-## Protocol Referer
+## Protocol
 
-See: [https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format)
+The SSE (Server-Sent Events) Protocol, See:
+[https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events#event_stream_format)
 
 ## Usage
 
