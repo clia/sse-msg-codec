@@ -23,7 +23,7 @@ assert_eq!(
 );
 ```
 
-Decode: 
+Decode:
 
 ```Rust
 let msg = "id: test-id\nevent: test-event\ndata: test-data line1\ndata: line2\n\n";
