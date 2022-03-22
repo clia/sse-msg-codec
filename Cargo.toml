@@ -3,6 +3,7 @@ name = "clia-sse-msg-codec"
 version = "0.1.0"
 authors = ["clia <clia@163.com>"]
 edition = "2021"
+license = "BSD-2-Clause"
 repository = "https://github.com/clia/sse-msg-codec"
 description = "A Rust lib to encode and decode the SSE (Server-Sent Events) protocol message."
 
